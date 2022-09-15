@@ -2,3 +2,4 @@
 	path = lib/pyyaml
 	url = https://github.com/yaml/pyyaml
 	ignore = dirty
+	branch = release/5.4.1.1
